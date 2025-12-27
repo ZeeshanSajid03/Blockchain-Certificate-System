@@ -45,7 +45,7 @@ Blockchain Certificate System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Blockchain-Certificate-System.git
+git clone https://github.com/ZeeshanSajid03/Blockchain-Certificate-System.git
 cd "Blockchain Certificate System"
 ```
 
