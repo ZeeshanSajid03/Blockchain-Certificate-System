@@ -1,0 +1,10 @@
+# Ensure consistent line endings
+* text=auto
+
+# Specific file types
+*.js text
+*.jsx text
+*.json text
+*.html text
+*.css text
+*.sol text
