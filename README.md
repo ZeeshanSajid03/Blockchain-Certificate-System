@@ -1,5 +1,9 @@
 # Blockchain Certificate System
 
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia-purple)](https://ethereum.org/en/developers/docs/networks/)
+
 A decentralized certificate issuance and verification system built on **Ethereum (Sepolia test network)**. This project demonstrates the use of **smart contracts, frontend integration, and backend APIs** to securely issue, store, and verify digital certificates in a permissioned blockchain environment.
 
 ---
